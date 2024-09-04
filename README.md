@@ -16,7 +16,9 @@ Beleza - Barbearia
 Barbearia Tech
 
 # Serviços prestados e tecnologias utilizadas
-Cadastro de usuários - Implementando banco de dados. Avaliação dos profissionais - Utilizando a linguagem de programação Python. Escolha e agendamento de serviço - Utilizando IA (Machine Learning). Localização geográfica - Rede de Computadores. Informações sobre a empresa prestadora de serviços, como meios de pagamento e serviços prestados - Seguindo as normas de Segurança da Informação.
+Cadastro de usuários - Implementando banco de dados. Avaliação dos profissionais - Utilizando a linguagem de programação Python.
+Escolha e agendamento de serviço - Utilizando IA (Machine Learning). Localização geográfica - Rede de Computadores. Informações sobre 
+a empresa prestadora de serviços, como meios de pagamento e serviços prestados - Seguindo as normas de Segurança da Informação.
 
 
 
